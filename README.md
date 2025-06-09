@@ -69,73 +69,12 @@
   <!-- 项目展示 -->
   <h2>🚀 精选项目</h2>
   
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">高性能 API 网关</h3>
-        <div align="center">
-          <a href="#">
-            <img src="https://via.placeholder.com/400x200/1e293b/ffffff?text=Go+%2B+Fastify" alt="API网关" />
-          </a>
-          <p>基于 Go 和 Fastify 构建的高性能微服务网关，支持 JWT 认证和限流</p>
-          <p>
-            <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-            <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white" />
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">跨平台电商应用</h3>
-        <div align="center">
-          <a href="#">
-            <img src="https://via.placeholder.com/400x200/1e293b/ffffff?text=Taro+%2B+React" alt="电商应用" />
-          </a>
-          <p>使用 Taro 和 React 构建的跨平台电商应用，支持微信小程序和 H5</p>
-          <p>
-            <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-            <img src="https://img.shields.io/badge/Taro-3C78D8?style=flat&logo=taro&logoColor=white" />
-          </p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">实时数据分析平台</h3>
-        <div align="center">
-          <a href="#">
-            <img src="https://via.placeholder.com/400x200/1e293b/ffffff?text=Next.js+%2B+Rust" alt="数据分析" />
-          </a>
-          <p>使用 Next.js 和 Rust WASM 构建的实时数据可视化分析平台</p>
-          <p>
-            <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-            <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">CI/CD 自动化系统</h3>
-        <div align="center">
-          <a href="#">
-            <img src="https://via.placeholder.com/400x200/1e293b/ffffff?text=Jenkins+%2B+Docker" alt="CI/CD" />
-          </a>
-          <p>基于 Jenkins 和 Docker 的自动化部署流水线，支持多环境发布</p>
-          <p>
-            <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-  
   <!-- GitHub 奖杯 -->
-  <h2>🏆 GitHub 成就</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=spongeBor&theme=onedark&no-frame=true&row=1&column=7&margin-w=15" />
   
   <!-- 开发理念 -->
   <h2>💡 开发理念</h2>
   <blockquote>
-    "构建高性能、可扩展的系统，同时保持代码的简洁与可维护性。"
+  
   </blockquote>
   
   <!-- 访客计数 -->
