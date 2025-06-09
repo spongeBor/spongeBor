@@ -7,7 +7,7 @@
   
   <!-- GitHub 统计卡片 -->
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spongeBor,spongeB,guoyubo&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spongeBor,spongeB,guoyubo&show_icons=true&theme=dark&count_private=true" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spongeBor,spongeB,guoyubo&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8" />
   </div>
   
