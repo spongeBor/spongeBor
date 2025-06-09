@@ -7,12 +7,12 @@
   
   <!-- GitHub 统计卡片 -->
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spongeBor&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spongeBor&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spongeBor,spongeB,guoyubo,spongeB,guoyubo&show_icons=true&theme=dark&bg_color=0d1117&hide_border=true&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spongeBor,spongeB,guoyubo&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8" />
   </div>
   
   <!-- 连续贡献图 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spongeBor&theme=github-dark&hide_border=true&area=true&height=300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spongeBor,spongeB,guoyubo&theme=github-dark&hide_border=true&area=true&height=300" />
   
   <!-- 技能徽章 - 根据要求定制 -->
   <h2>🛠️ 技术栈</h2>
@@ -65,8 +65,8 @@
   
   <!-- 访客计数 -->
   <h2>👀 个人主页访问统计</h2>
-  <img src="https://komarev.com/ghpvc/?username=spongeBor&style=flat-square&color=6366f1" />
+  <img src="https://komarev.com/ghpvc/?username=spongeBor,spongeB,guoyubo&style=flat-square&color=6366f1" />
   <br>
-  <img src="https://img.shields.io/github/followers/spongeBor?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/followers/spongeBor,spongeB,guoyubo?label=Followers&style=social" />
   
 </div>
