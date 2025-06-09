@@ -5,13 +5,13 @@
   
   <!-- 社交链接 -->
   <p align="center">
-    <a href="https://linkedin.com/in/yourusername">
+    <a href="https://linkedin.com/in/spongeBor">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="https://twitter.com/yourusername">
+    <a href="https://twitter.com/spongeBor">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
-    <a href="https://medium.com/@yourusername">
+    <a href="https://medium.com/@spongeBor">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
     </a>
     <a href="mailto:youremail@example.com">
@@ -21,12 +21,12 @@
   
   <!-- GitHub 统计卡片 -->
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spongeBor&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spongeBor&layout=compact&theme=dark" />
   </div>
   
   <!-- 连续贡献图 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spongeBor&theme=github-dark&hide_border=true" />
   
   <!-- 技能徽章 -->
   <h2>🛠️ 技术栈</h2>
@@ -71,7 +71,7 @@
       <td width="50%">
         <h3 align="center">项目名称 1</h3>
         <div align="center">
-          <a href="https://github.com/yourusername/project1">
+          <a href="https://github.com/spongeBor/project1">
             <img src="https://via.placeholder.com/400x200/2D3748/FFFFFF?text=Project+1" alt="项目1" />
           </a>
           <p>项目简短描述，展示你的项目核心功能和价值</p>
@@ -84,7 +84,7 @@
       <td width="50%">
         <h3 align="center">项目名称 2</h3>
         <div align="center">
-          <a href="https://github.com/yourusername/project2">
+          <a href="https://github.com/spongeBor/project2">
             <img src="https://via.placeholder.com/400x200/2D3748/FFFFFF?text=Project+2" alt="项目2" />
           </a>
           <p>项目简短描述，展示你的项目核心功能和价值</p>
@@ -99,7 +99,7 @@
   
   <!-- GitHub 奖杯 -->
   <h2>🏆 GitHub 成就</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=spongeBor&theme=onedark&no-frame=true&row=1&column=7" />
   
   <!-- 名言 -->
   <h2>💡 开发理念</h2>
@@ -111,6 +111,6 @@
   
   <!-- 访客计数 -->
   <h2>👀 个人主页访问统计</h2>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=spongeBor&style=flat-square&color=blueviolet" />
   
 </div>
