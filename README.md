@@ -7,12 +7,12 @@
   
   <!-- GitHub 统计卡片 -->
   <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spongeB&show_icons=true&theme=dark&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spongeB&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=spongeBor&show_icons=true&theme=dark&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spongeBor&layout=compact&theme=dark&bg_color=0d1117&hide_border=true&langs_count=8" />
   </div>
   
   <!-- 连续贡献图 -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spongeB&theme=github-dark&hide_border=true&area=true&height=300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=spongeBor&theme=github-dark&hide_border=true&area=true&height=300" />
   
   <!-- 技能徽章 - 根据要求定制 -->
   <h2>🛠️ 技术栈</h2>
@@ -65,8 +65,8 @@
   
   <!-- 访客计数 -->
   <h2>👀 个人主页访问统计</h2>
-  <img src="https://komarev.com/ghpvc/?username=spongeB&style=flat-square&color=6366f1" />
+  <img src="https://komarev.com/ghpvc/?username=spongeBor&style=flat-square&color=6366f1" />
   <br>
-  <img src="https://img.shields.io/github/followers/spongeB?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/followers/spongeBor?label=Followers&style=social" />
   
 </div>
