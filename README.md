@@ -28,6 +28,24 @@
 - 🌱 持续学习 **Go、Rust 和 Python**
 - 💡 喜欢把复杂问题拆解成简单、可靠的解决方案
 
+## 📈 Contribution activity
+
+<p align="center">
+  <a href="https://github.com/cicirello/user-statistician">
+    <img
+      src="images/contributions.svg"
+      alt="spongeBor contribution statistics"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <sub>
+    Includes anonymized contributions from private repositories.
+    Repository names and source code remain private.
+  </sub>
+</p>
+
 ## 🚀 Featured projects
 
 | Project | Description | Stack |
