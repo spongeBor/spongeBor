@@ -22,6 +22,7 @@
   </a>
   <img src="https://img.shields.io/badge/Core-TypeScript%20%C2%B7%20React%20%C2%B7%20Vue-3178C6?style=flat-square" alt="Core technologies" />
   <img src="https://img.shields.io/badge/Exploring-Go%20%C2%B7%20Rust%20%C2%B7%20Python-00ADD8?style=flat-square" alt="Exploring technologies" />
+  <img src="https://img.shields.io/badge/AI-Applied%20AI%20Engineering-8B5CF6?style=flat-square" alt="Applied AI Engineering" />
 </p>
 
 </div>
@@ -33,6 +34,7 @@
 I am a T-shaped engineer: deep in frontend architecture and broad across the full software delivery lifecycle.
 
 - 💼 Currently building software for digital fabrication products at **[xTool](https://www.xtool.com/)**, with a focus on frontend architecture and engineering systems
+- Apply AI agents to codebase understanding, implementation, testing, documentation and engineering automation
 - Build complex web applications with **TypeScript, React, Vue and Next.js**
 - Design reusable UI architecture, state models and clear module boundaries
 - Connect frontend systems to **Node.js, Fastify, Go and data services**
@@ -47,6 +49,7 @@ I am a T-shaped engineer: deep in frontend architecture and broad across the ful
 | --- | --- | --- |
 | **Frontend systems** | Application architecture, component systems, state management, routing, performance | TypeScript, React, Vue, Next.js, MobX, React Router |
 | **Full-stack design** | API contracts, service boundaries, error handling, integration patterns | Node.js, Fastify, Go |
+| **Applied AI engineering** | Agent workflows, context design, tool integration, evaluation and human-in-the-loop automation | LLM APIs, AI Agents, MCP |
 | **Data layer** | Data modeling, persistence, query design and application integration | PostgreSQL, MongoDB |
 | **Engineering systems** | Repeatable builds, CI/CD, quality gates and release automation | GitHub Actions, Jenkins, Docker |
 | **Infrastructure** | Containerized workloads, deployment concepts and cloud services | Kubernetes, AWS |
@@ -67,6 +70,13 @@ I am a T-shaped engineer: deep in frontend architecture and broad across the ful
 - Treat errors, asynchronous state and side effects as observable workflows
 - Avoid unnecessary coupling between business rules and framework details
 - Choose abstractions according to current complexity and expected change
+
+### Applied AI engineering
+
+- Turn AI from a chat assistant into repeatable, tool-driven engineering workflows
+- Design structured context, prompts, tool contracts and guardrails for reliable agent behavior
+- Connect agents with codebases, development tools and delivery processes through MCP and APIs
+- Evaluate output quality and keep human review in high-impact decisions
 
 ### Engineering quality
 

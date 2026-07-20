@@ -22,6 +22,7 @@
   </a>
   <img src="https://img.shields.io/badge/核心-TypeScript%20%C2%B7%20React%20%C2%B7%20Vue-3178C6?style=flat-square" alt="核心技术" />
   <img src="https://img.shields.io/badge/探索-Go%20%C2%B7%20Rust%20%C2%B7%20Python-00ADD8?style=flat-square" alt="探索中的技术" />
+  <img src="https://img.shields.io/badge/AI-应用型%20AI%20工程-8B5CF6?style=flat-square" alt="应用型 AI 工程" />
 </p>
 
 </div>
@@ -33,6 +34,7 @@
 我是一名 T 型工程师：以前端架构为技术深度，以完整的软件交付链路为能力广度。
 
 - 💼 目前就职于 **[xTool](https://www.xtool.com/)**，参与数字化创作产品的软件研发，重点关注前端架构与工程体系
+- 将 AI Agent 应用于代码库理解、功能实现、测试、文档与工程自动化
 - 使用 **TypeScript、React、Vue 与 Next.js** 构建复杂 Web 应用
 - 设计可复用的 UI 架构、状态模型以及清晰的模块边界
 - 通过 **Node.js、Fastify、Go 与数据服务**打通全栈链路
@@ -47,6 +49,7 @@
 | --- | --- | --- |
 | **前端系统** | 应用架构、组件体系、状态管理、路由与性能 | TypeScript、React、Vue、Next.js、MobX、React Router |
 | **全栈设计** | API 契约、服务边界、错误处理与集成模式 | Node.js、Fastify、Go |
+| **应用型 AI 工程** | Agent 工作流、上下文设计、工具集成、效果评估与人在回路自动化 | LLM API、AI Agent、MCP |
 | **数据层** | 数据建模、持久化、查询设计与应用集成 | PostgreSQL、MongoDB |
 | **工程体系** | 可重复构建、CI/CD、质量门禁与发布自动化 | GitHub Actions、Jenkins、Docker |
 | **基础设施** | 容器化工作负载、部署模型与云服务 | Kubernetes、AWS |
@@ -67,6 +70,13 @@
 - 将错误、异步状态和副作用设计为可观察的流程
 - 避免业务规则与框架实现产生不必要的耦合
 - 根据当前复杂度与未来变化选择合适的抽象层级
+
+### 应用型 AI 工程
+
+- 将 AI 从对话助手转化为可重复、工具驱动的工程工作流
+- 通过结构化上下文、提示词、工具契约与安全边界提升 Agent 可靠性
+- 使用 MCP 与 API 将 Agent 接入代码库、开发工具和交付流程
+- 评估输出质量，并在高影响决策中保留人工审查
 
 ### 工程质量
 
