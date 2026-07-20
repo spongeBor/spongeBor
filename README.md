@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm spongeB 👋</h1>
+<h1>Hi, I'm spongeBor 👋</h1>
 
 <p>
   <strong>Frontend-focused Full-stack Engineer · Architecture-minded Builder</strong>
