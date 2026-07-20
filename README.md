@@ -48,12 +48,12 @@ I am a T-shaped engineer: deep in frontend architecture and broad across the ful
 
 | Area | What I work on | Technologies |
 | --- | --- | --- |
-| **Frontend systems** | Application architecture, component systems, state management, routing, performance | TypeScript, React, Vue, Next.js, MobX, React Router |
+| **Frontend systems** | Application architecture, component systems, state management, routing, performance | TypeScript, React, Vue, Next.js, Electron, Pinia, MobX, React Router, Vue Router |
 | **Full-stack design** | API contracts, service boundaries, error handling, integration patterns | Node.js, Fastify, Go |
 | **Go engineering** | Backend services, concurrency, engineering tooling and systems-oriented design | Go |
 | **Applied AI engineering** | Agent workflows, context design, tool integration, evaluation and human-in-the-loop automation | Codex, Claude Code, LLM APIs, MCP |
 | **Data layer** | Data modeling, persistence, query design and application integration | PostgreSQL, MongoDB |
-| **Engineering systems** | Repeatable builds, CI/CD, quality gates and release automation | GitHub Actions, Jenkins, Docker |
+| **Engineering systems** | Build tooling, automated testing, CI/CD, quality gates and release automation | Vite, Vitest, Playwright, GitHub Actions, Jenkins, Docker |
 | **Infrastructure** | Containerized workloads, deployment and service orchestration | Docker, Kubernetes |
 | **Systems exploration** | Type systems, memory safety and automation | Rust, Python |
 
@@ -141,11 +141,40 @@ I am a T-shaped engineer: deep in frontend architecture and broad across the ful
 
 ### Frontend ecosystem
 
+**Application architecture**
+
 <p>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/Taro-3C78D8?style=flat-square" alt="Taro" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vue_Router-42B883?style=flat-square&logo=vuerouter&logoColor=white" alt="Vue Router" />
+  <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black" alt="Pinia" />
   <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white" alt="MobX" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square" alt="Zustand" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/Taro-3C78D8?style=flat-square" alt="Taro" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+</p>
+
+**UI and styling**
+
+<p>
+  <img src="https://img.shields.io/badge/Naive_UI-18A058?style=flat-square" alt="Naive UI" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+</p>
+
+**Tooling and quality**
+
+<p>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack" />
+  <img src="https://img.shields.io/badge/Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white" alt="Rollup" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm" />
+  <img src="https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white" alt="Nx" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
 </p>
 
 ### Data and infrastructure

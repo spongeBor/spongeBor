@@ -48,12 +48,12 @@
 
 | 领域 | 关注方向 | 技术栈 |
 | --- | --- | --- |
-| **前端系统** | 应用架构、组件体系、状态管理、路由与性能 | TypeScript、React、Vue、Next.js、MobX、React Router |
+| **前端系统** | 应用架构、组件体系、状态管理、路由与性能 | TypeScript、React、Vue、Next.js、Electron、Pinia、MobX、React Router、Vue Router |
 | **全栈设计** | API 契约、服务边界、错误处理与集成模式 | Node.js、Fastify、Go |
 | **Go 工程** | 后端服务、并发、工程工具与面向系统的设计 | Go |
 | **应用型 AI 工程** | Agent 工作流、上下文设计、工具集成、效果评估与人在回路自动化 | Codex、Claude Code、LLM API、MCP |
 | **数据层** | 数据建模、持久化、查询设计与应用集成 | PostgreSQL、MongoDB |
-| **工程体系** | 可重复构建、CI/CD、质量门禁与发布自动化 | GitHub Actions、Jenkins、Docker |
+| **工程体系** | 构建工具、自动化测试、CI/CD、质量门禁与发布自动化 | Vite、Vitest、Playwright、GitHub Actions、Jenkins、Docker |
 | **基础设施** | 容器化工作负载、部署与服务编排 | Docker、Kubernetes |
 | **系统探索** | 类型系统、内存安全与自动化 | Rust、Python |
 
@@ -141,11 +141,40 @@
 
 ### 前端生态
 
+**应用架构**
+
 <p>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router" />
-  <img src="https://img.shields.io/badge/Taro-3C78D8?style=flat-square" alt="Taro" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vue_Router-42B883?style=flat-square&logo=vuerouter&logoColor=white" alt="Vue Router" />
+  <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black" alt="Pinia" />
   <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white" alt="MobX" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square" alt="Zustand" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
+  <img src="https://img.shields.io/badge/Taro-3C78D8?style=flat-square" alt="Taro" />
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron" />
+</p>
+
+**UI 与样式**
+
+<p>
+  <img src="https://img.shields.io/badge/Naive_UI-18A058?style=flat-square" alt="Naive UI" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+</p>
+
+**工具链与质量**
+
+<p>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack" />
+  <img src="https://img.shields.io/badge/Rollup-EC4A3F?style=flat-square&logo=rollupdotjs&logoColor=white" alt="Rollup" />
+  <img src="https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white" alt="pnpm" />
+  <img src="https://img.shields.io/badge/Nx-143055?style=flat-square&logo=nx&logoColor=white" alt="Nx" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
 </p>
 
 ### 数据与基础设施
