@@ -1,0 +1,55 @@
+name: Detailed GitHub Metrics
+
+on:
+  schedule:
+    # 每天北京时间 09:00 更新
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate detailed activity metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: spongeBor
+          filename: github-metrics.svg
+
+          # 基础统计
+          base: header, activity, metadata
+          base_indepth: yes
+
+          # 包含自己、协作以及组织中的仓库
+          repositories_affiliations: owner, collaborator, organization_member
+          repositories_forks: no
+
+          # 时区
+          config_timezone: Asia/Shanghai
+
+          # 全年贡献日历、连续活跃天数、日均贡献
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # 编码习惯
+          plugin_habits: yes
+          plugin_habits_from: 1000
+          plugin_habits_days: 30
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
+          plugin_habits_trim: yes
+          plugin_habits_languages_limit: 6
+
+          # 包含私有仓库的聚合语言统计
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_threshold: 2%
+          plugin_languages_other: yes
+          plugin_languages_details: percentage
+          plugin_languages_sections: most-used
