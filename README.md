@@ -34,7 +34,7 @@
 I am a T-shaped engineer: deep in frontend architecture and broad across the full software delivery lifecycle.
 
 - 💼 Currently building software for digital fabrication products at **[xTool](https://www.xtool.com/)**, with a focus on frontend architecture and engineering systems
-- Apply AI agents to codebase understanding, implementation, testing, documentation and engineering automation
+- Build agentic development workflows with **Codex, Claude Code and MCP** for codebase understanding, implementation, testing, documentation and engineering automation
 - Build complex web applications with **TypeScript, React, Vue and Next.js**
 - Design reusable UI architecture, state models and clear module boundaries
 - Connect frontend systems to **Node.js, Fastify, Go and data services**
@@ -51,7 +51,7 @@ I am a T-shaped engineer: deep in frontend architecture and broad across the ful
 | **Frontend systems** | Application architecture, component systems, state management, routing, performance | TypeScript, React, Vue, Next.js, MobX, React Router |
 | **Full-stack design** | API contracts, service boundaries, error handling, integration patterns | Node.js, Fastify, Go |
 | **Go engineering** | Backend services, concurrency, engineering tooling and systems-oriented design | Go |
-| **Applied AI engineering** | Agent workflows, context design, tool integration, evaluation and human-in-the-loop automation | LLM APIs, AI Agents, MCP |
+| **Applied AI engineering** | Agent workflows, context design, tool integration, evaluation and human-in-the-loop automation | Codex, Claude Code, LLM APIs, MCP |
 | **Data layer** | Data modeling, persistence, query design and application integration | PostgreSQL, MongoDB |
 | **Engineering systems** | Repeatable builds, CI/CD, quality gates and release automation | GitHub Actions, Jenkins, Docker |
 | **Infrastructure** | Containerized workloads, deployment and service orchestration | Docker, Kubernetes |
@@ -129,6 +129,8 @@ I am a T-shaped engineer: deep in frontend architecture and broad across the ful
 ### AI engineering
 
 <p>
+  <img src="https://img.shields.io/badge/Codex-111827?style=flat-square" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Agent_Workflows-8B5CF6?style=flat-square" alt="Agent Workflows" />
   <img src="https://img.shields.io/badge/LLM_APIs-7C3AED?style=flat-square" alt="LLM APIs" />
   <img src="https://img.shields.io/badge/MCP-6D28D9?style=flat-square" alt="Model Context Protocol" />

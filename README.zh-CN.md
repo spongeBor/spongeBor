@@ -34,7 +34,7 @@
 我是一名 T 型工程师：以前端架构为技术深度，以完整的软件交付链路为能力广度。
 
 - 💼 目前就职于 **[xTool](https://www.xtool.com/)**，参与数字化创作产品的软件研发，重点关注前端架构与工程体系
-- 将 AI Agent 应用于代码库理解、功能实现、测试、文档与工程自动化
+- 使用 **Codex、Claude Code 与 MCP** 构建 Agent 驱动的研发工作流，覆盖代码库理解、功能实现、测试、文档与工程自动化
 - 使用 **TypeScript、React、Vue 与 Next.js** 构建复杂 Web 应用
 - 设计可复用的 UI 架构、状态模型以及清晰的模块边界
 - 通过 **Node.js、Fastify、Go 与数据服务**打通全栈链路
@@ -51,7 +51,7 @@
 | **前端系统** | 应用架构、组件体系、状态管理、路由与性能 | TypeScript、React、Vue、Next.js、MobX、React Router |
 | **全栈设计** | API 契约、服务边界、错误处理与集成模式 | Node.js、Fastify、Go |
 | **Go 工程** | 后端服务、并发、工程工具与面向系统的设计 | Go |
-| **应用型 AI 工程** | Agent 工作流、上下文设计、工具集成、效果评估与人在回路自动化 | LLM API、AI Agent、MCP |
+| **应用型 AI 工程** | Agent 工作流、上下文设计、工具集成、效果评估与人在回路自动化 | Codex、Claude Code、LLM API、MCP |
 | **数据层** | 数据建模、持久化、查询设计与应用集成 | PostgreSQL、MongoDB |
 | **工程体系** | 可重复构建、CI/CD、质量门禁与发布自动化 | GitHub Actions、Jenkins、Docker |
 | **基础设施** | 容器化工作负载、部署与服务编排 | Docker、Kubernetes |
@@ -129,6 +129,8 @@
 ### AI 工程
 
 <p>
+  <img src="https://img.shields.io/badge/Codex-111827?style=flat-square" alt="Codex" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Agent_Workflows-8B5CF6?style=flat-square" alt="Agent 工作流" />
   <img src="https://img.shields.io/badge/LLM_APIs-7C3AED?style=flat-square" alt="LLM API" />
   <img src="https://img.shields.io/badge/MCP-6D28D9?style=flat-square" alt="模型上下文协议" />
