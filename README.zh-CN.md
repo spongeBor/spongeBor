@@ -20,8 +20,8 @@
   <a href="https://github.com/spongeBor?tab=repositories">
     <img src="https://img.shields.io/badge/项目-查看仓库-6366F1?style=flat-square&logo=github&logoColor=white" alt="查看仓库" />
   </a>
-  <img src="https://img.shields.io/badge/核心-TypeScript%20%C2%B7%20React%20%C2%B7%20Vue-3178C6?style=flat-square" alt="核心技术" />
-  <img src="https://img.shields.io/badge/探索-Go%20%C2%B7%20Rust%20%C2%B7%20Python-00ADD8?style=flat-square" alt="探索中的技术" />
+  <img src="https://img.shields.io/badge/核心-TypeScript%20%C2%B7%20React%20%C2%B7%20Vue%20%C2%B7%20Go-3178C6?style=flat-square" alt="核心技术" />
+  <img src="https://img.shields.io/badge/探索-Rust%20%C2%B7%20Python-00ADD8?style=flat-square" alt="探索中的技术" />
   <img src="https://img.shields.io/badge/AI-应用型%20AI%20工程-8B5CF6?style=flat-square" alt="应用型 AI 工程" />
 </p>
 
@@ -38,9 +38,10 @@
 - 使用 **TypeScript、React、Vue 与 Next.js** 构建复杂 Web 应用
 - 设计可复用的 UI 架构、状态模型以及清晰的模块边界
 - 通过 **Node.js、Fastify、Go 与数据服务**打通全栈链路
+- 将 **Go** 作为核心语言，用于后端服务、并发任务与工程工具
 - 关注性能、可观察性、可维护性与开发者体验
 - 使用 **GitHub Actions、Jenkins、Docker 与 Kubernetes** 自动化交付
-- 通过 **Rust、Go 与 Python** 拓展系统层面的工程视野
+- 通过 **Rust 与 Python** 拓展系统层面的工程视野
 - 日常工程活动主要来自私有仓库，主页仅以聚合数据展示活跃度
 
 ## 技术能力图谱
@@ -49,11 +50,12 @@
 | --- | --- | --- |
 | **前端系统** | 应用架构、组件体系、状态管理、路由与性能 | TypeScript、React、Vue、Next.js、MobX、React Router |
 | **全栈设计** | API 契约、服务边界、错误处理与集成模式 | Node.js、Fastify、Go |
+| **Go 工程** | 后端服务、并发、工程工具与面向系统的设计 | Go |
 | **应用型 AI 工程** | Agent 工作流、上下文设计、工具集成、效果评估与人在回路自动化 | LLM API、AI Agent、MCP |
 | **数据层** | 数据建模、持久化、查询设计与应用集成 | PostgreSQL、MongoDB |
 | **工程体系** | 可重复构建、CI/CD、质量门禁与发布自动化 | GitHub Actions、Jenkins、Docker |
-| **基础设施** | 容器化工作负载、部署模型与云服务 | Kubernetes、AWS |
-| **系统探索** | 类型系统、内存安全、并发与自动化 | Rust、Go、Python |
+| **基础设施** | 容器化工作负载、部署与服务编排 | Docker、Kubernetes |
+| **系统探索** | 类型系统、内存安全与自动化 | Rust、Python |
 
 ## 技术深度
 
@@ -67,6 +69,8 @@
 ### 系统与 API 设计
 
 - 通过明确的契约连接前端、后端与数据层
+- 使用小而清晰的包边界与明确接口构建 Go 后端服务和工程工具
+- 通过清晰的所有权、取消机制与错误传播管理并发任务
 - 将错误、异步状态和副作用设计为可观察的流程
 - 避免业务规则与框架实现产生不必要的耦合
 - 根据当前复杂度与未来变化选择合适的抽象层级
@@ -114,6 +118,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -150,13 +155,11 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
 ### 持续探索
 
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>

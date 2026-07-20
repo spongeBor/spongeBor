@@ -20,8 +20,8 @@
   <a href="https://github.com/spongeBor?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-View%20Repositories-6366F1?style=flat-square&logo=github&logoColor=white" alt="View repositories" />
   </a>
-  <img src="https://img.shields.io/badge/Core-TypeScript%20%C2%B7%20React%20%C2%B7%20Vue-3178C6?style=flat-square" alt="Core technologies" />
-  <img src="https://img.shields.io/badge/Exploring-Go%20%C2%B7%20Rust%20%C2%B7%20Python-00ADD8?style=flat-square" alt="Exploring technologies" />
+  <img src="https://img.shields.io/badge/Core-TypeScript%20%C2%B7%20React%20%C2%B7%20Vue%20%C2%B7%20Go-3178C6?style=flat-square" alt="Core technologies" />
+  <img src="https://img.shields.io/badge/Exploring-Rust%20%C2%B7%20Python-00ADD8?style=flat-square" alt="Exploring technologies" />
   <img src="https://img.shields.io/badge/AI-Applied%20AI%20Engineering-8B5CF6?style=flat-square" alt="Applied AI Engineering" />
 </p>
 
@@ -38,9 +38,10 @@ I am a T-shaped engineer: deep in frontend architecture and broad across the ful
 - Build complex web applications with **TypeScript, React, Vue and Next.js**
 - Design reusable UI architecture, state models and clear module boundaries
 - Connect frontend systems to **Node.js, Fastify, Go and data services**
+- Use **Go** as a core language for backend services, concurrent workloads and engineering tools
 - Care about performance, observability, maintainability and developer experience
 - Automate delivery with **GitHub Actions, Jenkins, Docker and Kubernetes**
-- Explore **Rust, Go and Python** to broaden my systems perspective
+- Explore **Rust and Python** to broaden my systems perspective
 - Most day-to-day engineering happens in private repositories; activity is shown only as aggregated data
 
 ## Technical profile
@@ -49,11 +50,12 @@ I am a T-shaped engineer: deep in frontend architecture and broad across the ful
 | --- | --- | --- |
 | **Frontend systems** | Application architecture, component systems, state management, routing, performance | TypeScript, React, Vue, Next.js, MobX, React Router |
 | **Full-stack design** | API contracts, service boundaries, error handling, integration patterns | Node.js, Fastify, Go |
+| **Go engineering** | Backend services, concurrency, engineering tooling and systems-oriented design | Go |
 | **Applied AI engineering** | Agent workflows, context design, tool integration, evaluation and human-in-the-loop automation | LLM APIs, AI Agents, MCP |
 | **Data layer** | Data modeling, persistence, query design and application integration | PostgreSQL, MongoDB |
 | **Engineering systems** | Repeatable builds, CI/CD, quality gates and release automation | GitHub Actions, Jenkins, Docker |
-| **Infrastructure** | Containerized workloads, deployment concepts and cloud services | Kubernetes, AWS |
-| **Systems exploration** | Type systems, memory safety, concurrency and automation | Rust, Go, Python |
+| **Infrastructure** | Containerized workloads, deployment and service orchestration | Docker, Kubernetes |
+| **Systems exploration** | Type systems, memory safety and automation | Rust, Python |
 
 ## Areas of depth
 
@@ -67,6 +69,8 @@ I am a T-shaped engineer: deep in frontend architecture and broad across the ful
 ### System and API design
 
 - Connect frontend, backend and data layers through explicit contracts
+- Build backend services and engineering tools in Go with small packages and explicit interfaces
+- Handle concurrent work through clear ownership, cancellation and error propagation
 - Treat errors, asynchronous state and side effects as observable workflows
 - Avoid unnecessary coupling between business rules and framework details
 - Choose abstractions according to current complexity and expected change
@@ -114,6 +118,7 @@ I am a T-shaped engineer: deep in frontend architecture and broad across the ful
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -150,13 +155,11 @@ I am a T-shaped engineer: deep in frontend architecture and broad across the ful
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
 ### Exploring and extending
 
 <p>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
 </p>
