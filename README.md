@@ -121,6 +121,17 @@ I am a T-shaped engineer: deep in frontend architecture and broad across the ful
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
 </p>
 
+### AI engineering
+
+<p>
+  <img src="https://img.shields.io/badge/Agent_Workflows-8B5CF6?style=flat-square" alt="Agent Workflows" />
+  <img src="https://img.shields.io/badge/LLM_APIs-7C3AED?style=flat-square" alt="LLM APIs" />
+  <img src="https://img.shields.io/badge/MCP-6D28D9?style=flat-square" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Context_Engineering-4F46E5?style=flat-square" alt="Context Engineering" />
+  <img src="https://img.shields.io/badge/Tool_Integration-0F766E?style=flat-square" alt="Tool Integration" />
+  <img src="https://img.shields.io/badge/Evaluation-0369A1?style=flat-square" alt="AI Evaluation" />
+</p>
+
 ### Frontend ecosystem
 
 <p>

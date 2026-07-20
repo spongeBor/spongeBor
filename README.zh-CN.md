@@ -121,6 +121,17 @@
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white" alt="Fastify" />
 </p>
 
+### AI 工程
+
+<p>
+  <img src="https://img.shields.io/badge/Agent_Workflows-8B5CF6?style=flat-square" alt="Agent 工作流" />
+  <img src="https://img.shields.io/badge/LLM_APIs-7C3AED?style=flat-square" alt="LLM API" />
+  <img src="https://img.shields.io/badge/MCP-6D28D9?style=flat-square" alt="模型上下文协议" />
+  <img src="https://img.shields.io/badge/Context_Engineering-4F46E5?style=flat-square" alt="上下文工程" />
+  <img src="https://img.shields.io/badge/Tool_Integration-0F766E?style=flat-square" alt="工具集成" />
+  <img src="https://img.shields.io/badge/Evaluation-0369A1?style=flat-square" alt="AI 效果评估" />
+</p>
+
 ### 前端生态
 
 <p>
