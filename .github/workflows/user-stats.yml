@@ -1,0 +1,26 @@
+name: Update contribution statistics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate contribution statistics
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/contributions.svg
+          colors: dark
+          custom-title: spongeBor's GitHub Activity
+          hide-keys: general, languages, repositories
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
