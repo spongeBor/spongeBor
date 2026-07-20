@@ -33,7 +33,7 @@
 
 I am a T-shaped engineer: deep in frontend architecture and broad across the full software delivery lifecycle.
 
-- 💼 Currently building software for digital fabrication products at **[xTool](https://www.xtool.com/)**, with a focus on frontend architecture and engineering systems
+- 💼 Currently building graphics editing software at **[xTool](https://www.xtool.com/)**, with a focus on frontend architecture and engineering systems
 - Build agentic development workflows with **Codex, Claude Code and MCP** for codebase understanding, implementation, testing, documentation and engineering automation
 - Build complex web applications with **TypeScript, React, Vue and Next.js**
 - Design reusable UI architecture, state models and clear module boundaries
