@@ -43,22 +43,28 @@
 
 ## 📈 Engineering activity
 
-<p align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="assets/github-activity-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="assets/github-activity-light.svg"
+  />
   <img
-    src="github-metrics.svg"
-    alt="spongeBor detailed GitHub engineering activity"
+    src="assets/github-activity-light.svg"
+    alt="spongeBor GitHub engineering activity"
     width="100%"
   />
-</p>
+</picture>
 
 <p align="center">
   <sub>
-    Includes aggregated activity from authorized private repositories.
-    Private repository names and source code are not displayed.
+    Aggregated public and anonymized private contributions.
+    Updated automatically every day.
   </sub>
 </p>
-
-> 活跃度面板包含全年贡献日历、连续活跃天数、Commit、Issue、PR、Review、活跃时间分布和聚合语言统计。
 
 ## 🚀 Featured projects
 
